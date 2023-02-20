@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AditUB (Adhvith U B)
 - 👀 A fellow technophile here who's interested in everything and anything from science to anime...dancing...archery..cooking...blender...and much much more.
-- 🌱 I’m currently learning web development from TheOdinProject and a bit of selenium.
 
 <!---
 AditUB/AditUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
